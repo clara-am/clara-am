@@ -1,9 +1,8 @@
-# ¡Hola, soy Clara! :raising_hand:
+**Clara Mª Albalá**  
+Desarrolladora web apasionada por la innovación y el aprendizaje continuo. Tras comenzar mi carrera en el sector bancario desarrollando en **Cobol**, descubrí mi verdadera vocación en el desarrollo web. He complementado mi experiencia laboral con un máster en diseño web y desarrollo frontend, lo que me ha permitido crecer profesionalmente en áreas nuevas y emocionantes.
 
-Me presento. Soy Clara Mª Albalá. Soy desarrolladora. Tras mis comienzos en el sector, desarrollando en **Cobol** para banca decidí que era el momento de moverme, a otro lleno de posibilidades de aprendizaje y no tan diferente como de primeras parece: **el desarrollo web** 💻.  Además de trabajar, compaginé con el trabajo como "cobolera", un máster de diseño web y desarrollo frontend como primer paso y así crecer profesionalmente. El tiempo es lo más valioso y no me gusta sentir que lo pierdo de ninguna manera.
+Actualmente, trabajo como engineer en **NTTData**, donde desarrollo plugins para el LMS Moodle, enfocados en soluciones de e-learning. Cada día me esfuerzo por incorporar nuevas tecnologías. JavaScript y PHP centran mi rango de habilidades en el desarrollo de plataformas educativas.
 
-Ahora, trabajó como Engineer para NTTData desarrollando plugins en Adapt Framework para productos e-learning para educación y de cuando en cuando también desarrollo para el LMS Moodle. En Adapt desarrollo bajo las librerías Backbone.js, Phaser 3.5 y poquito a poco voy incorporando nuevos conocimientos: React, Axios, MUI, ... y php en Moodle.
+Mi objetivo es formar parte de un equipo colaborativo donde la métrica del éxito individual y grupal se base en la retroalimentación y la empatía. Creo firmemente en la importancia de un entorno de trabajo positivo, donde el feedback siempre sea constructivo y motivador.
 
-Personalmente, aspiro a verme en un equipo de trabajo del que poder aprender y en el que pueda verme a largo plazo. Un lugar donde el éxito individual y grupal origine la retroalimentación, la empatía y se aplique en el trabajo diario. Donde el feedback siempre sea en positivo.
-
-:dancer:
+¡Estoy siempre abierta a colaborar en proyectos interesantes y aprender de otros!
